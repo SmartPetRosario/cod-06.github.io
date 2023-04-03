@@ -8,6 +8,9 @@ body {
   padding: 0%;
   margin: 0%;
 }
+.las-parejas{
+  font-size: small;
+}
 
 p {
   font-size: 14px;
@@ -21,7 +24,7 @@ p {
   margin: 15px auto;
   padding: 10px 1px;
   border-radius: 20px;
-  height: 184px;
+  height: 195px;
   width: 330px;
 }
 
